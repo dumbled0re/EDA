@@ -8,6 +8,9 @@ authors = ["<info@example.jp>"]
 python = "^3.9"
 plotly-express = "^0.4.1"
 pandas = "^1.5.3"
+openpyxl = "^3.1.2"
+matplotlib = "^3.7.1"
+matplotlib-inline = "^0.1.6"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
